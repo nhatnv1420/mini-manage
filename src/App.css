@@ -1,0 +1,39 @@
+.add-task {
+    border: 1px solid #ccc;
+    padding: 20px;
+}
+
+.heading {
+    text-align: center;
+}
+
+.flex-box {
+    display: flex;
+}
+
+.state {
+    padding: 0 6px;
+    color: #fff;
+}
+
+.toggleAddTask {
+    float: right;
+    font-size: 25px;
+    cursor: pointer;
+}
+
+.label-form {
+    font-size: 30px;
+    font-style: italic;
+    font-weight: bold;
+    color: red;
+}
+
+.dropdown-item {
+    cursor: default;
+}
+
+.sortActive {
+    background-color: #0d6efd;
+    color: #fff;
+}
